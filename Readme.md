@@ -1,14 +1,23 @@
-# Project Name
+# Smart Wallet
 
 ## 🚀 Project Description
-A concise, engaging description of your hackathon project.
+The Smart Wallet is an AI-powered 
+financial assistant that monitors cash and 
+digital transactions in real-time. It 
+provides insights into spending patterns, 
+alerts users about unnecessary expenses, 
+and offers budgeting suggestions. By 
+integrating smart tracking and automated 
+calculations, it empowers users to take 
+control of their finances effortlessly
+
 
 ## 🎯 Link to Project
 [live link of project](live_link)
 
 ## 🛠 Tech Stack
-- List the primary technologies used
-- Include programming languages, frameworks, and key libraries
+- HTML
+- CSS
 
 ## 📦 Prerequisites
 - List all required software and versions
@@ -53,9 +62,9 @@ A concise, engaging description of your hackathon project.
    ```
 
 ## Team Members
-  [1.Team Member 1](enter_github_id_here)   
-  [2.Team Member 2](enter_github_id_here)   
-  [3.Team Member 3](enter_github_id_here)   
-  [4.Team Member 4](enter_github_id_here)  
+  [1.Krishnadasan](BoOGeyMaN018)   
+  [2.Mohd Shaaz](SHXZ7)   
+  [3.Alin Alex](AlinAlexMyladoor)   
+  [4.Adarsh P](Adarsh-Dev-Git)  
 
 **Made with ❤️ at Beachhack 6**
