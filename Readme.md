@@ -1,7 +1,7 @@
 # Smart Wallet
 
 ## 🚀 Project Description
-The Smart Wallet is an AI-powered 
+NEXIFY is an AI-powered 
 financial assistant that monitors cash and 
 digital transactions in real-time. It 
 provides insights into spending patterns, 
@@ -18,6 +18,7 @@ control of their finances effortlessly
 ## 🛠 Tech Stack
 - HTML
 - CSS
+- JavaScript
 
 ## 📦 Prerequisites
 - List all required software and versions
