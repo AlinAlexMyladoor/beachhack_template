@@ -1,4 +1,4 @@
-# Smart Wallet
+# NEXIFY -YOUR ONTO BUDGET PARTNER
 
 ## 🚀 Project Description
 NEXIFY is an AI-powered 
